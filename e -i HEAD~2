@@ -1,0 +1,41 @@
+[33mcommit 9d92892a7cd63dba95766dd0bcc2ec42457c8872[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Ubuntu <azureuser@RAFlow.q22lp35jx21ellxjbc1smo0vtd.bx.internal.cloudapp.net>
+Date:   Wed Oct 23 08:08:57 2024 +0000
+
+    Remove sensitive information and add .env to .gitignore
+
+[33mcommit f2998ff853ddb2a2512ddfc4f499ec2c1fc5b1f4[m
+Author: Ubuntu <azureuser@RAFlow.q22lp35jx21ellxjbc1smo0vtd.bx.internal.cloudapp.net>
+Date:   Wed Oct 23 08:01:20 2024 +0000
+
+    Initial commit with RAG system integration
+
+[33mcommit 9ec2ddcc765a730d1017cc0e4c753a4db846745f[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Ubuntu <azureuser@RAFlow.q22lp35jx21ellxjbc1smo0vtd.bx.internal.cloudapp.net>
+Date:   Fri Oct 18 10:36:12 2024 +0000
+
+    update blog
+
+[33mcommit 5dae771da9a891ebaf634cfa692a83f4ded28c3e[m
+Author: Ubuntu <azureuser@RAFlow.q22lp35jx21ellxjbc1smo0vtd.bx.internal.cloudapp.net>
+Date:   Fri Oct 18 10:19:36 2024 +0000
+
+    Removed frontend submodule and re-added as regular folder
+
+[33mcommit 66b9abb4540e5f4b07b28f412160b2c0bab07379[m
+Author: Ubuntu <azureuser@RAFlow.q22lp35jx21ellxjbc1smo0vtd.bx.internal.cloudapp.net>
+Date:   Fri Oct 18 10:14:47 2024 +0000
+
+    Fix: Ensure frontend files are tracked
+
+[33mcommit 463dd66e1b96a7bb2008eaf5a54492b34ca256a3[m
+Author: Ubuntu <azureuser@RAFlow.q22lp35jx21ellxjbc1smo0vtd.bx.internal.cloudapp.net>
+Date:   Fri Oct 18 10:06:31 2024 +0000
+
+    Consolidated .gitignore files into the root directory
+
+[33mcommit 93a5268199aed2cb24dd791ed7ea4af32202db1d[m
+Author: Ubuntu <azureuser@RAFlow.q22lp35jx21ellxjbc1smo0vtd.bx.internal.cloudapp.net>
+Date:   Fri Oct 18 10:01:05 2024 +0000
+
+    first commit

@@ -1,0 +1,611 @@
+{
+    "policies": [
+      {
+        "id": "TEP-20231110-1",
+        "name_en": "Travel and Expense Policy",
+        "name_cn": "差旅和费用政策",
+        "content_en": {
+          "policy_version": "1.0",
+          "policy_scope": "This policy applies to personal expense reimbursement for employees of Antalpha and affiliates.",
+          "employee_responsibilities": [
+            "Employees should read this Policy prior to planning and incurring business expenses.",
+            "Employees must abide by this policy and report all expenses promptly and accurately with relevant documentation."
+          ],
+          "policy_outline": [
+            "General Policy",
+            "Entertainment & Meals",
+            "Business Travel",
+            "Incidental Business / Office Expenses",
+            "Non-Reimbursable Expenses",
+            "Expense Submission"
+          ],
+          "policy_owner": "Accounting Dept. in connection with the Administration Dept.",
+          "general_policy": {
+            "description": "The Company reimburses employees for reasonable and necessary expenditures with a genuine business purpose.",
+            "philosophy": "The Company encourages frugality in business expenditures to stay lean and agile.",
+            "examples": [
+              "Use phone calls and video conferencing instead of business travel where possible.",
+              "Employees of the same gender are recommended to share a room to save costs."
+            ],
+            "consequences": "Expense reimbursement not in compliance with this policy may be declined. Fraudulent acts may lead to dismissal or reporting to authorities."
+          },
+          "entertainment_and_meals": {
+            "description": "Business entertainment and meal expenses can be incurred for legitimate business purposes.",
+            "criteria": [
+              "The recipient must have a potential or actual business dealing with the Company.",
+              "The expenditure must precede or follow a business discussion that benefits the Company."
+            ],
+            "hospitality_requirements": [
+              "Infrequent in nature",
+              "Good taste and occurs at a business-appropriate venue",
+              "Reasonable and appropriate in context",
+              "Must not violate any laws or standards of business conduct"
+            ],
+            "approval": "The expenditure must be within the budget and approved by the business unit/functional group head."
+          },
+          "business_travel": {
+            "definition": "Business travel refers to an employee required to travel outside their base city for business purposes.",
+            "allowable_expenses": [
+              "Airfare/Rail/Liner booked through the Company",
+              "Hotel accommodation",
+              "Transport between home and airport, airport and hotel, between cities",
+              "Reimbursement for overseas business entertainment",
+              "Expenses related to travel purposes, such as conference fees, visa fees, etc.",
+              "Local transport costs between hotel and work/meeting venue",
+              "Incidentals like SIM cards, Wi-Fi, laundry"
+            ],
+            "travel_request": {
+              "description": "Travel requests must include a travel budget approved by a director or above before travel.",
+              "guidelines": [
+                "Travel requests should be submitted for approval one month before travel to receive better rates.",
+                "Unreasonably incurred costs due to lack of planning may not be reimbursed."
+              ],
+              "self_booking": "Employees can self-book if cheaper rates are found, but they must submit a quote from the Admin Dept."
+            },
+            "air_ticketing": {
+              "reimbursement_class": "Economy class only",
+              "booking_responsibility": "Admin personnel will book the lowest available airfare for all flights.",
+              "incremental_costs": [
+                "Employees requesting higher airfare for frequent flyer miles must bear the incremental cost."
+              ],
+              "considerations": [
+                "Reliability and safety of the airline",
+                "Reasonable flight connections and travel time",
+                "Refundable/flexible tickets if approved by a department director"
+              ]
+            },
+            "ground_transportation": {
+              "economical_travel": "Employees should use the most economical travel arrangement.",
+              "reimbursable_transport": [
+                "Transport between home and airport",
+                "Transport between overseas airport and hotel/work venue",
+                "Mileage for personal vehicle if allowed by local tax authorities"
+              ],
+              "car_rental": {
+                "description": "Car rental is an option in cities where it is more economical.",
+                "reimbursement_requirements": {
+                  "vehicle_size": "Compact/economy vehicle; upgrades allowed if justified.",
+                  "fuel": "Company reimburses for fuel but not on-site refueling.",
+                  "insurance": "Basic car rental insurance is reimbursable."
+                }
+              }
+            },
+            "accommodation": {
+              "policy": [
+                "The Company will pay for accommodation for business travel requiring an overnight stay.",
+                "Employees must choose a contracted hotel if available, or expenses must not exceed contracted rates."
+              ],
+              "preferred_pricing": "The Company usually has preferred pricing agreements with local hotels for popular destinations.",
+              "long_travel": [
+                "Stays over 2 weeks will be negotiated for discounts.",
+                "Short-term apartment rentals may be arranged for longer stays."
+              ]
+            },
+            "travel_allowance": {
+              "description": "A daily allowance covers meals, transportation, and incidentals.",
+              "allowance_rates": [
+                {
+                  "country_city": "United States, Japan, Western Europe",
+                  "daily_rate_usd": 60
+                },
+                {
+                  "country_city": "Australia, UAE",
+                  "daily_rate_usd": 50
+                },
+                {
+                  "country_city": "Hong Kong, Singapore, South Korea, Taiwan",
+                  "daily_rate_usd": 40
+                },
+                {
+                  "country_city": "Mainland, SE Asia (Indonesia, Thailand, etc.), Brazil, Turkey",
+                  "daily_rate_usd": 30
+                }
+              ],
+              "conditions": [
+                "Allowance does not cover in-flight time or personal travel days.",
+                "Receipts must be submitted even if claiming per diem."
+              ]
+            },
+            "foreign_currency": {
+              "rules": {
+                "China entities": "RMB only",
+                "Singapore entities": "SGD or USD",
+                "Other entities": "USD or stable coin"
+              },
+              "proof_of_conversion": "Expense reports must include proof of currency conversion rates."
+            }
+          },
+          "incidental_expenses": {
+            "description": "Incidental business expenses must be small amounts and comply with procurement policy.",
+            "upfront_payment": "Exceptional cases must include justification for upfront payment by the employee."
+          },
+          "non_reimbursable_expenses": [
+            "Personal or dependent's expenses",
+            "Personal items like luggage, clothing, cosmetics",
+            "Accidental loss during business travel",
+            "Personal entertainment (e.g., spa, sightseeing)",
+            "Medical expenses",
+            "Commuting costs between home and work",
+            "Credit card fees and interest expenses"
+          ],
+          "expense_submission": {
+            "timely_submission": [
+              "Employees should submit expense reports promptly, ideally following each calendar month.",
+              "Reports submitted after 30 days require justification and may be rejected."
+            ],
+            "valid_receipts": [
+              "Receipts must be authentic, clear, and complete.",
+              "Credit card statements are not valid receipts.",
+              "Employees must retrieve lost receipts from vendors if possible."
+            ],
+            "management_approval": "Expenses must be approved by the employee's superior and must include valid documentation.",
+            "audit": "Reimbursement submissions will be audited periodically, and false claims may lead to disciplinary actions."
+          },
+          "appendix": {
+            "definition_business_travel_and_relocation": [
+              {
+                "type": "Business Travel",
+                "nature": "Requested by Company",
+                "employment_contract": "No Change",
+                "travel_period": "<1 month",
+                "air_tickets": "Booked & paid by Company",
+                "accommodation": "Hotel",
+                "travel_allowance": "Daily Allowance by Country"
+              },
+              {
+                "type": "Assignment / Expatriate",
+                "nature": "Requested by Company",
+                "employment_contract": "No Change",
+                "travel_period": "1 – 3 months",
+                "air_tickets": "Booked & paid by Company",
+                "accommodation": "Hotel / Rental Apartment, whichever is lower cost",
+                "travel_allowance": "Daily Allowance by Country"
+              },
+              {
+                "type": "Relocation",
+                "nature": "Requested by Company",
+                "employment_contract": "Changed",
+                "travel_period": ">3 months",
+                "air_tickets": "Relocation Package (as defined by HR)",
+                "accommodation": "Relocation Package (as defined by HR)",
+                "travel_allowance": null
+              },
+              {
+                "type": "Remote Office",
+                "nature": "Request by Employee",
+                "employment_contract": "No Change",
+                "travel_period": "As approved",
+                "air_tickets": "At one's own expense",
+                "accommodation": "At one's own expense",
+                "travel_allowance": null
+              }
+            ],
+            "staff_benefits": {
+              "transportation": [
+                "Employees working beyond 9 pm may claim expenses for transport back home.",
+                "Premium transportation requires justification and approval."
+              ],
+              "overtime_meal_allowance": {
+                "China": "30 yuan for overtime meals",
+                "Other countries": "No meal allowance currently"
+              }
+            }
+          }
+        },
+        "content_cn": {
+          "版本": "v1.0",
+          "适用范围": "本政策适用于安塔尔法公司及其附属公司的员工的个人费用报销。",
+          "员工责任": [
+            "员工在计划和发生商务费用（包括但不限于商务旅行和招待）之前应阅读本政策。",
+            "员工必须遵守本政策，并及时、准确地报告所有与公司业务相关的费用，并附上相关证明文件。"
+          ],
+          "政策大纲": [
+            "通用政策",
+            "招待与餐饮",
+            "商务旅行",
+            "零星商务/办公费用",
+            "不可报销费用",
+            "费用提交"
+          ],
+          "政策负责人": "会计部门与行政部门共同管理。",
+          "通用政策": {
+            "描述": "公司将报销员工因业务目的发生的合理和必要的支出。",
+            "理念": "公司鼓励员工在业务支出上保持节俭，以保持精简和灵活。",
+            "指南": [
+              "如果电话或视频会议能满足业务需求，应避免商务旅行。",
+              "鼓励员工与同性同事共享酒店房间以节约成本。",
+              "不符合本政策或其理念的支出可能被拒绝。",
+              "公司不容忍提交非法发票或伪造费用报销。"
+            ]
+          },
+          "招待与餐饮": {
+            "描述": "商务招待和餐饮费用可以因合法的业务目的而发生。",
+            "标准": [
+              "接待对象必须与公司有潜在或实际的业务往来。",
+              "支出必须与业务讨论直接相关或紧随其后，且对公司有利。"
+            ],
+            "招待要求": [
+              "性质不频繁。",
+              "必须在适合商业场合的地点进行。",
+              "在业务背景下必须合理和适当。",
+              "不得违反任何法律或任何方的商业行为标准。"
+            ],
+            "审批": "招待费用必须在部门预算内并由负责部门负责人批准。"
+          },
+          "商务旅行": {
+            "定义": "商务旅行指员工因业务需要离开其常驻城市的旅行。",
+            "可报销费用": {
+              "财务支持": {
+                "机票/铁路/轮船": "由公司预订",
+                "酒店住宿": "由公司支付",
+                "交通费用": [
+                  "从家到机场",
+                  "从机场到酒店",
+                  "城市间的交通"
+                ],
+                "海外商务招待": [
+                  "与旅行目的直接相关的费用（注册费、签证费、场地预定费、疫苗接种等）"
+                ],
+                "餐费": {
+                  "描述": "酒店与工作/会议地点之间的本地交通费用",
+                  "覆盖范围": "由差旅津贴覆盖"
+                },
+                "杂项费用": {
+                  "描述": "如SIM卡、WiFi费用、洗衣费等自付费用",
+                  "覆盖范围": "由差旅津贴覆盖"
+                }
+              }
+            },
+            "出差申请": {
+              "描述": "出差申请包括由董事或以上级别批准的出差预算，员工应至少提前一个月提交申请。",
+              "自行预订": "如员工找到更便宜的价格，可自行预订并提交报价以获得报销。"
+            },
+            "机票预订": {
+              "报销等级": "仅限经济舱",
+              "预订责任": "行政部门将为所有航班预订最低可用票价。",
+              "考虑因素": [
+                "航空公司的可靠性和安全记录。",
+                "合理的航班衔接和旅行时间。",
+                "如经部门主管批准，可选购可退款的机票。"
+              ],
+              "铁路/轮船": "应选择标准/经济/二等舱座位。"
+            },
+            "地面交通": {
+              "经济出行": "员工应选择最经济的交通方式，例如使用机场快线或地铁。",
+              "可报销项目": [
+                {
+                  "项目": "从家到机场的交通",
+                  "描述": "与商务出行相关的费用可以报销。"
+                },
+                {
+                  "项目": "租车",
+                  "要求": {
+                    "车辆类型": "紧凑型/经济型",
+                    "燃料": "在租车期间的燃料费用可以报销。",
+                    "保险": "基本的车辆租赁保险可以报销。"
+                  }
+                }
+              ],
+              "不可报销项目": "日常通勤费用、超过24小时的长期停车费用、交通违规罚款"
+            },
+            "住宿": {
+              "描述": "公司将支付员工在常驻城市外的商务旅行住宿费用。",
+              "优选价格": "使用合同酒店享受折扣价格，如果没有合同，则遵循该地区的标准价格。",
+              "合并个人旅行": "如果合并个人旅行，额外费用需由员工自行承担。",
+              "长期住宿": {
+                "超过两周": "对于超过两周的住宿，将进行折扣谈判。",
+                "短期公寓租赁": "对于较长的住宿时间，可安排短期公寓租赁。"
+              }
+            },
+            "差旅津贴": {
+              "描述": "差旅津贴用于支付商务旅行期间的餐费、交通费和杂项费用。",
+              "津贴标准": [
+                {
+                  "国家/城市": "美国、日本、西欧",
+                  "每日标准（美元）": 60
+                },
+                {
+                  "国家/城市": "香港、新加坡、韩国、台湾",
+                  "每日标准（美元）": 40
+                },
+                {
+                  "国家/城市": "澳大利亚、阿联酋",
+                  "每日标准（美元）": 50
+                },
+                {
+                  "国家/城市": "中国大陆、东南亚（印度尼西亚、泰国等）、巴西、土耳其",
+                  "每日标准（美元）": 30
+                }
+              ],
+              "条件": [
+                "津贴不包括个人旅行或飞行时间。",
+                "即使申请津贴，也必须提交收据。"
+              ]
+            },
+            "外币费用": {
+              "规则": {
+                "中国实体": "仅限人民币",
+                "新加坡实体": "新币或美元",
+                "其他实体": "美元或稳定币"
+              },
+              "汇率证明": "费用报告中必须包含货币兑换率的证明。"
+            }
+          },
+          "零星费用": {
+            "描述": "零星商务费用应为小额并符合采购政策。"
+          },
+          "不可报销费用": [
+            "个人或家属的费用",
+            "个人物品（如行李、化妆品）",
+            "商务旅行中的意外损失",
+            "个人娱乐（如水疗、观光）",
+            "医疗费用",
+            "家与工作地点之间的通勤费用",
+            "信用卡费用和利息"
+          ],
+          "费用提交": {
+            "提交指南": [
+              "费用应及时报告以供审计。",
+              "超过30天的迟交报告需要有效的理由。"
+            ],
+            "有效收据": [
+              "收据必须是真实、清晰和完整的。",
+              "信用卡对账单不是有效的收据。",
+              "员工应尽一切努力获取丢失的收据。"
+            ],
+            "管理审批": "费用必须由员工的上级批准。",
+            "审计": "公司将定期进行审计，提交虚假报销的行为将导致纪律处分。"
+          },
+          "附录1": {
+            "差旅和调动定义": [
+              {
+                "类型": "商务旅行",
+                "性质": "公司要求",
+                "雇佣合同": "无变化",
+                "差旅周期": "<1个月",
+                "机票": "由公司预订并支付",
+                "住宿": "酒店",
+                "差旅津贴": "按国家标准每日补贴"
+              },
+              {
+                "类型": "外派/派遣",
+                "性质": "公司要求",
+                "雇佣合同": "无变化",
+                "差旅周期": "1 – 3个月",
+                "机票": "由公司预订并支付",
+                "住宿": "酒店或租赁公寓，以较低成本为准",
+                "差旅津贴": "按国家标准每日补贴"
+              },
+              {
+                "类型": "调动",
+                "性质": "变更",
+                "雇佣合同": "变更",
+                "差旅周期": ">3个月",
+                "机票": "按人力资源定义的调动包",
+                "住宿": "按人力资源定义的调动包",
+                "差旅津贴": null
+              },
+              {
+                "类型": "远程办公",
+                "性质": "员工申请",
+                "雇佣合同": "无变化",
+                "差旅周期": "根据批准",
+                "机票": "自行承担",
+                "住宿": "自行承担",
+                "差旅津贴": null
+              }
+            ],
+            "员工福利": {
+              "加班交通": {
+                "描述": "员工在晚上9点后工作可申请回家的交通费用。",
+                "高级交通": "需要理由和财务审批。"
+              },
+              "加班餐费津贴": {
+                "中国": "30元人民币的加班餐费",
+                "其他国家": "目前无餐费津贴"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": "AHAS-2023-1",
+        "name_en": "2023 Agreement Hotel and Accommodation Standards",
+        "name_cn": "2023 协议酒店和住宿标准",
+        "content": {
+          "accommodation_info": [
+            {
+              "region": "中国",
+              "cities": [
+                {
+                  "city": "港澳台地区",
+                  "rates": {
+                    "华住集团": null,
+                    "锦江集团": null,
+                    "首旅如家集团": null,
+                    "洲际（IHG 集团）": "￥1,500",
+                    "希尔顿集团": "￥2,100",
+                    "住宿标准": "￥1,500"
+                  }
+                },
+                {
+                  "city": "北京、上海、广州、深圳",
+                  "rates": {
+                    "华住集团": "￥680",
+                    "锦江集团": "￥650",
+                    "首旅如家集团": "￥520",
+                    "洲际（IHG 集团）": null,
+                    "希尔顿集团": null,
+                    "住宿标准": "￥520"
+                  }
+                },
+                {
+                  "city": "新一线及二线城市",
+                  "rates": {
+                    "华住集团": "￥500",
+                    "锦江集团": "￥480",
+                    "首旅如家集团": "￥420",
+                    "洲际（IHG 集团）": null,
+                    "希尔顿集团": null,
+                    "住宿标准": "￥420"
+                  }
+                },
+                {
+                  "city": "其他城市",
+                  "rates": {
+                    "华住集团": "￥390",
+                    "锦江集团": "￥360",
+                    "首旅如家集团": "￥320",
+                    "洲际（IHG 集团）": null,
+                    "希尔顿集团": null,
+                    "住宿标准": "￥320"
+                  }
+                }
+              ]
+            },
+            {
+              "region": "亚洲",
+              "cities": [
+                {
+                  "city": "日本、韩国、新加坡、以色列",
+                  "rates": {
+                    "洲际（IHG 集团）": "$250",
+                    "希尔顿集团": "$250",
+                    "住宿标准": "$250"
+                  }
+                },
+                {
+                  "city": "西亚",
+                  "rates": {
+                    "洲际（IHG 集团）": "$210",
+                    "希尔顿集团": "$160",
+                    "住宿标准": "$160"
+                  }
+                },
+                {
+                  "city": "其他国家",
+                  "rates": {
+                    "洲际（IHG 集团）": "$100",
+                    "希尔顿集团": "$158",
+                    "住宿标准": "$100"
+                  }
+                }
+              ]
+            },
+            {
+              "region": "欧洲",
+              "cities": [
+                {
+                  "city": "东欧",
+                  "rates": {
+                    "洲际（IHG 集团）": "$100",
+                    "希尔顿集团": "$160",
+                    "住宿标准": "$100"
+                  }
+                },
+                {
+                  "city": "南欧",
+                  "rates": {
+                    "洲际（IHG 集团）": "$200",
+                    "希尔顿集团": "$120",
+                    "住宿标准": "$120"
+                  }
+                },
+                {
+                  "city": "西欧、中欧、北欧",
+                  "rates": {
+                    "洲际（IHG 集团）": "$200",
+                    "希尔顿集团": "$190",
+                    "住宿标准": "$190"
+                  }
+                }
+              ]
+            },
+            {
+              "region": "非洲",
+              "cities": [
+                {
+                  "city": "所有国家",
+                  "rates": {
+                    "洲际（IHG 集团）": "$150",
+                    "希尔顿集团": "$100",
+                    "住宿标准": "$100"
+                  }
+                }
+              ]
+            },
+            {
+              "region": "美洲",
+              "cities": [
+                {
+                  "city": "加拿大、美国",
+                  "rates": {
+                    "洲际（IHG 集团）": "$350",
+                    "希尔顿集团": "$310",
+                    "住宿标准": "$310"
+                  }
+                },
+                {
+                  "city": "拉美大区",
+                  "rates": {
+                    "洲际（IHG 集团）": "$210",
+                    "希尔顿集团": "$160",
+                    "住宿标准": "$160"
+                  }
+                }
+              ]
+            },
+            {
+              "region": "大洋洲",
+              "cities": [
+                {
+                  "city": "澳大利亚、新西兰",
+                  "rates": {
+                    "洲际（IHG 集团）": "$210",
+                    "希尔顿集团": "$240",
+                    "住宿标准": "$210"
+                  }
+                },
+                {
+                  "city": "其他国家",
+                  "rates": {
+                    "洲际（IHG 集团）": "$150",
+                    "希尔顿集团": "$170",
+                    "住宿标准": "$150"
+                  }
+                }
+              ]
+            }
+          ],
+          "hotel_groups": {
+            "华住集团": ["全季", "汉庭", "宜必思", "海友", "你好", "员宿", "桔子", "星程"],
+            "锦江集团": ["维也纳", "维也纳智好", "康铂", "凯里亚德", "欧暇地中海", "希岸", "喆啡", "潮漫", "樾枫", "丽怡", "非繁城品", "亦岚", "IU", "维也纳3好", "白玉兰", "百时快捷", "金广快捷", "锦江之星", "品尚", "风尚", "派", "7天", "优品"],
+            "首旅如家集团": ["如家精选", "如家商旅", "艾扉酒店", "柏丽艾尚国际", "YUNIK", "如家", "莫泰", "驿居", "雅克e家", "欣燕都"],
+            "洲际（IHG 集团）": ["假日", "智选假日"],
+            "希尔顿集团": ["希尔顿花园", "希尔顿欢朋", "希尔顿惠庭"]
+          }
+        }
+      }
+    ]
+  }
+  

@@ -1,0 +1,21 @@
+name: rag_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    - streamlit
+    - openai
+    - cohere
+    - redis
+    - boto3
+    - langchain
+    - langchain-community
+    - langchain-openai
+    - pysqlite3
+    - python-dotenv
+    - chromadb
+    - azure-storage-blob
+    - flask
